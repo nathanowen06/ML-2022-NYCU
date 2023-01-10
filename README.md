@@ -1,7 +1,7 @@
 # ML-2022-NYCU
 
 How to Reproduce Result:
-1. Download the model from the link provided :
+1. Download the model from the link provided : https://github.com/nathanowen06/ML-2022-NYCU/blob/main/predictions.joblib
 2. Download the inference code
 3. Download the sample_submission.csv
 4. Download the requirements.txt
